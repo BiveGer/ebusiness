@@ -20,6 +20,7 @@ $pdo = new PDO('mysql:host=localhost;dbname=users', 'root', '');
 <div id="header">
 <img id="logo" src="../img/heart.png"/>
 </div>
+
 <ul list-style-type:none>
   <li><a class="active" href="produkt.php">Startseite</a></li>
   <li><a href="Alkohol.html">Alkohole</a></li>
