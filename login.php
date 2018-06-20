@@ -19,6 +19,7 @@ if(isset($_GET['login'])) {
         die('Login erfolgreich. Weiter zur <a href="homepage.html">Startseite</a>');
     } else {
         $errorMessage = "E-Mail oder passwort war ungültig<br>";
+
     }
 
 }
